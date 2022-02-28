@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition of the Lord Maior, aldermen &amp; commons of the city of London, in Common Councel assembled; unto the right Honorable the Commons of England in Parliament assembled, with the answer of the Parliament thereunto: and also, the petition of divers wel-affected citizens of the city of London, presented unto the Common Councel, humbly desiring their concurrence therein. Published according to order.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90597</idno>
+            <idno type="STC">Wing P1815</idno>
+            <idno type="STC">Thomason E286_29</idno>
+            <idno type="STC">ESTC R200083</idno>
+            <idno type="EEBO-CITATION">99860887</idno>
+            <idno type="PROQUEST">99860887</idno>
+            <idno type="VID">113014</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90597)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113014)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 47:E286[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition of the Lord Maior, aldermen &amp; commons of the city of London, in Common Councel assembled; unto the right Honorable the Commons of England in Parliament assembled, with the answer of the Parliament thereunto: and also, the petition of divers wel-affected citizens of the city of London, presented unto the Common Councel, humbly desiring their concurrence therein. Published according to order.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Matth. Simmons,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Iune 6. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>For the recruiting of Sir Thomas Fairfax's army, the recovery of Leicester, the appointment of Cromwell to command the Eastern Association, etc.--Thomason Tracts Catalogue.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113014:1" rendition="simple:additions"/>
+            <p>THE PETITION OF THE LORD MAIOR, Aldermen &amp; Commons of the City of <hi>London,</hi> in Common Councel aſſembled; UNTO The right Honorable the Commons of ENGLAND in PARLIAMENT Aſſembed, With the Anſwer of the Parliament thereunto: And alſo, The Petition of divers wel-affected Citizens of the City of <hi>London,</hi> Preſented unto the Common Councell, humbly deſiring their concurrence therein.</p>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <p>
+                        <hi>Publiſhed according to Order.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Matth. Simmons,</hi> Iune 6. 1645</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:113014:2"/>
+            <pb n="1" facs="tcp:113014:2"/>
+            <head>TO THE RIGHT HONOURABLE THE KNIGHTS, CITI<g ref="char:EOLhyphen"/>ZENS, AND BURGESSES of the Commons Houſe of PARLIAMENT, <hi>The humble Petition of the Lord Major, Aldermen, and Commons of the Citie of</hi> LONDON <hi>in Common Councell aſſembled.</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>HAT the Inhabitants of this Citie, and parts adjacent, are generally moſt deeply ſen<g ref="char:EOLhyphen"/>ſible of theſe preſſing miſe<g ref="char:EOLhyphen"/>ries, under which they and the whole Kingdome now groan: And that imminent ruine which is coming upon both through the relieving of <hi>Cheſter,</hi> the unexpreſſible loſſe of <hi>Leiceſter,</hi> the barbarous cruelty executed there, the danger of the reſt of our Garriſons, and well-affected thereabouts, and the increaſing and pre<g ref="char:EOLhyphen"/>vailing
+<pb n="2" facs="tcp:113014:3"/> of the enemy by Sea and Land, like a mighty Torrent; That (among other cauſes which have had a deep influence upon this moſt ſad poſture of our condition) the ſaid Inhabitants apprehend, that the not compleating of Sir <hi>Thomas Fairfaxes</hi> Army (ac<g ref="char:EOLhyphen"/>cording to an Ordinance of Parliament in that be<g ref="char:EOLhyphen"/>halfe,) the want of ſuch a Committee in that Army, as may give our Commanders in chiefe, power and encouragement to improve all preſent advantages without attending commands and directions from re<g ref="char:EOLhyphen"/>mote Councels. The calling back of Lieutenant Ge<g ref="char:EOLhyphen"/>nerall <hi>Cromwel,</hi> and Major Generall <hi>Browne,</hi> when they were purſuing the enemy; The not advancing of our brethren of <hi>Scotland</hi> into theſe Southern parts; The great decay of Trade, and diſcouragements of Mer<g ref="char:EOLhyphen"/>chants for want of a conſtant convoy, His M<hi rend="sup">aties</hi> publi<g ref="char:EOLhyphen"/>ſhing his ſenſe of the proceedings at the late Treaty, and the Parliament not publiſhing their ſenſe thereof. And their reſolutions againſt free trade by Sea to ſuch Ports as are or ſhal be in the power of the enemy, have been the chiefe; That great numbers of thoſe Inha<g ref="char:EOLhyphen"/>bitants have lately expreſſed their earneſt deſires (by Petition &amp; otherwiſe, to the repreſentative body of the Citie, in common Councell aſſembled,) That this their deep ſenſe and apprehenſions might bee forth<g ref="char:EOLhyphen"/>with made known to both Houſes of Parliament, Their humble ſuit that the remedies may bee ſpeedily conſidered of, and effectually executed; and their re<g ref="char:EOLhyphen"/>ſolutions, according to all former expreſſions, that they will not think their lives, nor any thing they poſ<g ref="char:EOLhyphen"/>ſeſſe, too dear to hazard for your encouragement and preſervation.</p>
+            <p>Thereupon the Petitioners (for prevention of fur<g ref="char:EOLhyphen"/>ther miſeries, inconveniences, and the utter ruine of
+<pb n="3" facs="tcp:113014:3"/> the Parliament, of this Citie and Kingdom, make it their humble requeſt to this houourable Houſe, That care may be taken for the ſpeedy recruiting of Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Fairfax</hi> his Army, and for his encouragement, That ſuch a Committee may bee ſent with that Army, as may give our Commanders in chiefe (of whoſe faith<g ref="char:EOLhyphen"/>fulneſſe the Kingdome hath had ſo large teſtimony) power and encouragement to improve all preſent ad<g ref="char:EOLhyphen"/>vantages aforeſaid: That the ſaid Army (or ſuch part thereof as in your wiſdome ſhall ſeem meet) may be ordered forthwith to march towards our enemies in the field, as well for the regaining of <hi>Leiceſter</hi> (if it be poſſible) before it be made impregnable by fortificati<g ref="char:EOLhyphen"/>ons; as alſo for prevention of the enemies further ſur<g ref="char:EOLhyphen"/>prizing of other places of ſtrength, and deſtroying the reſt who have appeared in defence of the Parliament, &amp; for preſervation of the kingdom. That our brethren of <hi>Scotland</hi> may bee more earneſtly preſt to march Southward; That Lieutenant Generall <hi>Cromwell</hi> may preſently have power to raiſe and command the Aſſo<g ref="char:EOLhyphen"/>ciation, untill ſuch other courſe be taken, as may tend to the ſafety of thoſe Counties, and of this Citie and Kingdome. That the Navie may bee ſo ordered, as may encourage Merchants, and advance Trade, by ha<g ref="char:EOLhyphen"/>ving conſtant Convoyes. That the proceedings at the late Treaty may be forthwith publiſhed by the Parlia<g ref="char:EOLhyphen"/>ment, and their reſolution againſt free Trade, as afore<g ref="char:EOLhyphen"/>ſaid.</p>
+            <closer>And the Petitioners, as in duty, ſhall pray, &amp;c.
+<signed>Vera Copia. H. Elſing, Cler. Parl D. Com.</signed>
+            </closer>
+         </div>
+         <div type="reply">
+            <pb n="6" facs="tcp:113014:4"/>
+            <head>Die Mercurii Junii <hi>4. 1645.</hi>
+            </head>
+            <opener>Reſolved, &amp;c.</opener>
+            <p>THAT the anſwer to the Peti<g ref="char:EOLhyphen"/>tioners ſhal be, That the Houſe wil take the particulars of the Peti<g ref="char:EOLhyphen"/>tion into ſerious conſideration. And doe return them thankes for their good affections. And as to their de<g ref="char:EOLhyphen"/>ſire of leave to preſent the like to the Houſe of Peeres, this Houſe leaves it to themſelves, and to their own diſcretion.</p>
+            <closer>
+               <signed>H. Elſing, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="5" facs="tcp:113014:4"/>
+            <head>TO THE HONOURABLE THE HOUSE OE Commons aſſembled In PARLIAMENT. <hi>The humble Petition of divers wil-affected Citizens of the City of</hi> London.</head>
+            <opener>Moſt humbly ſheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat your Petitioners being full of a deep Senſe of theſe preſſing miſeries, under which this City and Kingdome now groanes, &amp; that imminent ruine which is coming upon both, through the unexpreſſible loſſe of <hi>Leiceſter,</hi> The danger of the reſt of our Garriſons thereabouts, and the increaſing and prevailing of the Kings forces like a mighty torrent,: And withall humbly con<g ref="char:EOLhyphen"/>ceiving, that amongſt other Cauſes and Reaſons,
+<pb n="6" facs="tcp:113014:5"/> which have had a deep influence upon this moſt ſad poſture of our condition, The not compleat<g ref="char:EOLhyphen"/>ing of Sir <hi>Thomas Fairfax</hi> his Army, according to an Ordinance of Parliament in that behalf; The not advancing of our Brethren of <hi>Scotland</hi> into theſe Southern parts have been the chief.</p>
+            <p>Moſt humbly pray, That S<hi rend="sup">r</hi>. <hi>Thomas Fairfax</hi> be ordered with all ſpeed, to march with his Army towards the King: And that due care be taken for his recruite and encouragement; And that <hi>Leiceſter</hi> (if poſſible) may be re<g ref="char:EOLhyphen"/>gained, before it be made impregnable by forti<g ref="char:EOLhyphen"/>fications: That our Brethren of <hi>Scotland</hi> may be more earneſtly preſt to march Southward: That Lievtenant Generall <hi>Cromwell</hi> may preſently have power to raiſe and to command the Aſſocia<g ref="char:EOLhyphen"/>tion; and that our Commanders in chief, who have given large teſtimony to the Kingdome of their faithfulneſſe &amp; valour, may have power to improve all preſent advantages, without at<g ref="char:EOLhyphen"/>tending commands and directions from remote Councels.</p>
+            <p>The Premiſes conſidered, they humbly pray may be ſpeedily debated, and effectually executed, and your <hi>Petitio<g ref="char:EOLhyphen"/>ners</hi> (according to all former expreſsions of themſelves to you) ſhall for the future, think neither their lives nor any thing they poſſeſſe too deare to them to hazard for the incouragement and preſervation of you.</p>
+            <closer>And (as in duty bound) ſhall daily pray.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
